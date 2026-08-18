@@ -24,8 +24,8 @@ Weather Analysis Dashboard is a real-time weather monitoring and forecasting app
 
 | Platform | Source |
 |----------|----------|
-| .NET MAUI | https://github.com/syncfusion/maui-weather-analysis |
-| WPF | https://github.com/syncfusion/wpf-demos/tree/master/showcase/weather%20analysis |
+| .NET MAUI | [link](https://github.com/syncfusion/maui-weather-analysis) |
+| WPF | [link](https://github.com/syncfusion/wpf-demos/tree/master/showcase/weather%20analysis) |
 
 ---
 
